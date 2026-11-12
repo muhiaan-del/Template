@@ -41,3 +41,6 @@ You will need accounts for the following services (all have free tiers):
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
 cd YOUR_REPO_NAME
 npm install"# Template" 
+
+### Deploy To  Vercel
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmuhiaan-del%2Ftemplate)
