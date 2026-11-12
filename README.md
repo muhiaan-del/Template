@@ -25,7 +25,16 @@ EduAssist is a full-stack, multi-tenant Learning Management System (LMS) that in
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Live Demo & One-Click Deploy
+
+- **Live Demo:** [https://templatem-pied.vercel.app](https://templatem-pied.vercel.app)
+- **Deploy your own instance:** Click the button below. 
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmuhiaan-del%2Ftemplatem&env=NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY,SUPABASE_SERVICE_ROLE_KEY,GROQ_API_KEY,JINA_API_KEY,LIVEKIT_API_KEY,LIVEKIT_API_SECRET,NEXT_PUBLIC_LIVEKIT_URL)
+
+---
+
+## 💻 Local Development Setup
 
 Follow these steps to get your own instance of EduAssist running locally.
 
@@ -38,9 +47,6 @@ You will need accounts for the following services (all have free tiers):
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
-npm install"# Template" 
-
-### Deploy To  Vercel
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmuhiaan-del%2Ftemplate)
+git clone https://github.com/muhiaan-del/templatem.git
+cd templatem
+npm install
